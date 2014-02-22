@@ -105,3 +105,18 @@ bash -i
 bash -i
 mintty
 bash -i
+ls
+cd Dropbox/
+od code_spenits.cpp -x -w16
+od KeysPref.epf -x -w16
+od KeysPref.epf -x -w16 -j
+od KeysPref.epf -x -w16 -j 100
+od KeysPref.epf -x -w16 -j 30000
+od KeysPref.epf -x -w16 -j 3000
+od KeysPref.epf -x -w16 -j 0x300
+od KeysPref.epf -x -w16 -j 0x30000]
+od KeysPref.epf -x -w16 -j 0x30000
+od KeysPref.epf -x -w16 -j 0x3000
+od KeysPref.epf -x -w16 -j 3000
+od KeysPref.epf -x -w16 -j0x3000
+od KeysPref.epf -tcx1

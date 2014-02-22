@@ -1,3 +1,3 @@
 ;;;; .emacs
 ;; init.el ÇÃÉçÅ[ÉhÇÃÇ›
-(load (expand-file-name (concat (getenv "HOME") "/dotfiles/emacs.d/init")))
+;(load (expand-file-name (concat (getenv "HOME") "/dotfiles/emacs.d/init")))
